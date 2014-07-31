@@ -1,0 +1,18 @@
+{
+  "name": "jquery.sparkline",
+  "version": "2.1.4",
+  "homepage": "https://github.com/obierlaire/jquery.sparkline",
+  "authors": [
+    "Olivier <obierlaire@gmail.com>"
+  ],
+  "description": "Sparkline for jQuery",
+  "main": "dist/jquery.sparkline.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
